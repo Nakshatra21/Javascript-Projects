@@ -1,0 +1,8 @@
+Prettier, Emmet, Auto Rename Tag, Bracket Pair Colorizer, 
+Javascript (ES6) Code Snippets - used for clg --> console.log(object),
+Live server, Prettier Code Formatter
+
+
+
+Ctrl + Shift + P -> Open Settings.
+
